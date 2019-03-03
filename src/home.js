@@ -191,7 +191,7 @@ class Home extends React.Component{
                 color="textSecondary"
                 component="p"
               >
-                Connecting to every public and private exchange.
+                Connecting to every public and private exchange. Added
                 ExchangeLink® is a cutting-edge solution that connects your organization to every public and private health insurance exchanges, 
                 aggregating and processing data across multiple platforms and distribution channels.
                 ExchangeLink, part of the HealthPlan Services Links℠ Solution Suite, provides your organization with an information transfer platform and 
